@@ -11,6 +11,7 @@ How to use :
 pip install -r Requirement.txt # I did need to use "--break-system-packages" option probably because I am on a weird debian
 
 python3 SQC.py -v
+
 python3 SQC.py -h
 
 some exemple of more complexe utilisation
