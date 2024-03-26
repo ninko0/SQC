@@ -1,0 +1,6 @@
+Host/IP         Port     User      Password
+
+192.168.0.11    22       admin     MySecurePassword
+10.100.20.3     46       John Doe  IamAbot
+apacheSVR_1     102      Dev_1     P4ssW0rd3
+
