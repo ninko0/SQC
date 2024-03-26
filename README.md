@@ -1,5 +1,5 @@
 # SQC
-SQC for ssh quick config is a project who aims to be able to configure machines or servers only in SSH and in a simple and quick way.
+SQC for ssh quick config is a project who aims to be able to configure multiple machines or servers only in SSH and in a simple and quick way.
 For the moment it only work on Debian based OS .
 
 For the moment it is a little bit spagethi code, but I think all function to be replicable to add new options and new configuration very easly.
@@ -18,4 +18,12 @@ some exemple of more complexe utilisation
 
 
 Available function for now :
+apt update & upgrade the systeme
+add user 
+install list of any apt package
+gitclone list of tools
+change the SSH conf of your systeme
+change neplan (not opti, can cause colision of ip)
+
+
 
