@@ -18,12 +18,22 @@ some exemple of more complexe utilisation
 
 
 Available function for now :
-apt update & upgrade the systeme
-add user 
-install list of any apt package
-gitclone list of tools
-change the SSH conf of your systeme
-change neplan (not opti, can cause colision of ip)
 
+- apt update & upgrade the systeme
+- add user 
+- install list of any apt package
+- gitclone list of tools
+- change the SSH conf of your systeme
+- change neplan (not opti, can cause colision of ip)
+
+# TODO
+
+install and conf apache with the possibility to hade x509 certs
+
+create X509 autosigned certs
+
+user and groupe with 1 cmd
+
+install zsh with ohmyzsh and a theme of ohmyzsh given and sitch bash to zsh
 
 
